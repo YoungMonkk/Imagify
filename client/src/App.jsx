@@ -5,7 +5,7 @@ import { ToastContainer, toast } from 'react-toastify';
 import Home from './pages/Home'
 import Result from './pages/Result'
 import GenerationResult from './pages/GenerationResult'
-import BuyCredit from './pages/BuyCredit'
+import BuyCredit from './pages/Buycredit'
 import Gallery from './pages/Gallery'
 import Dashboard from './pages/Dashboard'
 import Navbar from './components/Navbar'
